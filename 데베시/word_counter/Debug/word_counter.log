@@ -1,0 +1,4 @@
+﻿  WordCount.cpp
+C:\Users\pkqwa\OneDrive\바탕 화면\word_counter\word_counter\WordCount.cpp(96,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\pkqwa\OneDrive\바탕 화면\word_counter\word_counter\WordCount.cpp(170,22): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  word_counter.vcxproj -> C:\Users\pkqwa\OneDrive\바탕 화면\word_counter\Debug\word_counter.exe
